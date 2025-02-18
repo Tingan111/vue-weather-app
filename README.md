@@ -1,4 +1,4 @@
-# vue-weather
+# vue-weather-app
 
 https://opendata.cwa.gov.tw/index 申請API金鑰
 
